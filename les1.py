@@ -120,3 +120,4 @@ if first_day_result_str.isnumeric() and finish_day_result_str.isnumeric():
     print(f'Ответ: на {i}-й день спортсмен достиг результата — не менее {finish_day_result_int} км.')
 else:
     print(f'Введённые числа не корректны')
+
